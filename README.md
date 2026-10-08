@@ -56,6 +56,8 @@ Player performance data obtained from FBref.
 
 The final output is a radar chart designed to provide a concise visual representation of the player's performance profile.
 
+<img width="751" height="815" alt="Radar Pizza Nelson Semedo 20-21" src="https://github.com/user-attachments/assets/b5887d4e-77ca-41fc-87d2-50694c032889" />
+
 **Project structure**
 
 football-radar-nelson-semedo/
