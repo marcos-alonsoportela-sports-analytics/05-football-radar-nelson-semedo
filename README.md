@@ -70,6 +70,3 @@ football-radar-nelson-semedo/
 Marcos Alonso Portela
 
 Sports Data Analyst | Football Analytics
-Marcos Alonso Portela
-
-Sports Data Analyst | Football Analytics
