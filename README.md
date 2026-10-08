@@ -1,12 +1,18 @@
 # 05-football-radar-nelson-semedo
 Football performance radar analysis using Python and FBref data.
-Overview
+**Overview**
 
 This project presents a football performance radar chart created with Python to analyse and contextualise the performance profile of Nélson Semedo.
 
 The analysis uses player performance data and percentile-based metrics to compare the player's profile across different areas of performance.
 
-Objectives
+
+
+This project presents a football performance radar chart created with Python to analyse and contextualise the performance profile of Nélson Semedo.
+
+The analysis uses player performance data and percentile-based metrics to compare the player's profile across different areas of performance.
+
+**Objectives**
 
 Build a football performance radar using Python.
 
@@ -16,7 +22,7 @@ Provide a visual representation of the player's strengths and characteristics.
 
 Apply football-specific data visualisation techniques.
 
-Methodology
+**Methodology**
 
 The workflow includes:
 
@@ -30,7 +36,7 @@ Visualisation using a football pitch-oriented radar.
 
 Interpretation of the resulting player profile.
 
-Tools
+**Tools**
 
 Python
 
@@ -46,11 +52,11 @@ Data source
 
 Player performance data obtained from FBref.
 
-Output
+**Output**
 
 The final output is a radar chart designed to provide a concise visual representation of the player's performance profile.
 
-Project structure
+**Project structure**
 
 football-radar-nelson-semedo/
 │
@@ -59,8 +65,11 @@ football-radar-nelson-semedo/
 └── images/
     └── radar_nelson_semedo.png
 
-Author
+**Author**
 
+Marcos Alonso Portela
+
+Sports Data Analyst | Football Analytics
 Marcos Alonso Portela
 
 Sports Data Analyst | Football Analytics
